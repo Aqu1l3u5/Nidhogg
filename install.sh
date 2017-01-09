@@ -11,7 +11,8 @@ then
 	fi
 fi
 
-cp program/nidhogg /usr/bin/nidhogg
+cp programme/nidhogg /usr/bin/nidhogg
+chmod +x /usr/bin/nidhogg
 cp configuration/nidhogg.nanorc /usr/share/nano/nidhogg.nanorc
 echo '## Nidhogg
 include "/usr/share/nano/nidhogg.nanorc" ' >> /etc/nanorc

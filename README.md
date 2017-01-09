@@ -6,6 +6,7 @@ N.I.D.H.O.G.G (New Interpretor by Dictionary, of High-level, Object-oriented and
 
 Installer Nidhogg/Install Nidhogg :
 
+sudo chmod +x installer.sh
 sudo ./installer.sh
 
 Amusez-vous bien !/Have fun !
